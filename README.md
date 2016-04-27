@@ -1,3 +1,3 @@
-# PHPCon-2015
+# PHPConChina
 
 PHPConChina 相关资源
