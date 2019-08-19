@@ -1,6 +1,6 @@
 # PHPConChina 相关资源
 
-视频：稍后放出
+视频：http://www.itdks.com/index.php/Act/apply_upgrade/id/3044/mUid/49601.html
 
 官网：www.phpconchina.com
 
