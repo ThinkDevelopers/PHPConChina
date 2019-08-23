@@ -9,6 +9,8 @@
 微信交流群：
 添加个人微信号「PHPConChina」自动通过后，输入加群密码：11643 稍等自动拉群
 
+[PHP 优质岗位内推](https://github.com/ThinkDevelopers/php-Jobs)
+
 -----------
 
 PPT 版权归属 PHPCon 组委会和嘉宾本人所有，请勿通过其他渠道提供下载
