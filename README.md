@@ -14,8 +14,8 @@ https://www.itdks.com/Home/Act/apply?id=5366
 纪念品购买渠道： https://k.weidian.com/H3=4lVho
 
 
-客服咨询：􏰔􏰳􏰭􏰻PHPConChina􏰼 （个人微信号）
-官方QQ群： 34449228（ 加群注明 PHPCon ）
+客服咨询: PHPConChina（个人微信号）
+官方QQ群: 34449228（ 加群注明 PHPCon ）
 
 -----------
 
